@@ -1,4 +1,4 @@
-🇹🇷 TR ;
+🇹🇷 ;
 
 # Herkese merhaba 👋, Ben remornn
 
@@ -8,7 +8,7 @@ Hesabım Birkaç Gün Önce Kapandığı İçin Yeniden Atmak Zorunda Kaldım.
 
 İyi Günler!
 
-ENG ;
+🇬🇧 ;
 
 # Hi everyone 👋, I'm remornn 
 

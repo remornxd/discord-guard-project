@@ -1,6 +1,6 @@
-:flag_tr: TR ;
+🇹🇷 TR ;
 
-# # Herkese merhaba 👋, Ben remornn
+# Herkese merhaba 👋, Ben remornn
 
 Dostum Merhaba Backup Botu Paylaşcağım.30 Star Olduğunda Paylaşacağım.Bot Gibi İşlemler Yasaktır!
 

@@ -21,10 +21,15 @@ Good day!
 # Bot Özellikleri ;
 
 ❯ Sunucda Rol Silince Banlıyor!
+
 ❯ Sunucuda Rol Silince Logluyor!
+
 ❯ Sunuucda Rol Silince Rolü Geri Açıp Senin Belirttiğin Bot'lar İle Roller'i Dağıtıyor Ve Kanal İzinleri Ayarlıyor!
+
 ❯ Sunucuda Rol Silen Kişiyi Sunucudan Banlıyıp.Kara Listeye Alınıyor.Sunucudan Banı Açılınca Direk "BACKUP" Botu Banlıyor!
+
 ❯ Sunucuda Rol Silinince Yöneticileri Kapatıyor!
+
 ❯ Sunucuda Rol Sildikten Sonra Roller Dağıtım İşlemi Yaparken Senin Belirttiğin Bot'lardan Herhangi Biri Özelden Mesaj Atıyor!
 
 

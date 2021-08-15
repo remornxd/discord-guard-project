@@ -1,0 +1,10 @@
+{
+ "safeuser": ["User İd"],
+ "prefix": ".",
+ "guardtoken": "guardtoken1",
+ "guardtokenler": ["guardtoken2","guardtoken3","guardtoken4"],
+ "backuptoken": "backuptoken1",
+ "backuptokenler": ["backuptoken2","backuptoken3","backuptoken4","backuptoken5","backuptoken6"],
+ "serverid": "id",
+ "VoiceChannel": "bot(lar)'ın gireceği ses kanal id"
+}

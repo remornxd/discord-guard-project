@@ -1,6 +1,4 @@
-🇹🇷 ;
-
-# Herkese merhaba 👋, Ben remornn
+# Herkese merhaba 👋,ben remornn
 
 Dostum Merhaba Backup Ve Guard Botlarını 60 Star Olduğunda Paylaşcağım.
 

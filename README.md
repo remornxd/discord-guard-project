@@ -2,6 +2,8 @@
 
 Dostum Merhaba Backup Ve Guard Botlarını 60 Star Olduğunda Paylaşcağım.Guard Ve Backup Botları Bir Proje İçindedir.Gerekli Olan Sadece Bot Tokeni,Bot'a Pp Koymak Ve Güvenli Kişilerin Bota İd Girmek.En Son Olarak Herhangi Bir Kanala .bot kur Yazdığınızda Log Kanalları Vs Kuracaktır.Kanal İd'leri Bot Girmektedir.
 
+Yan Hesap Gibi Şeyler Yasaktır.Öyle Birşey Gözükürse Paylaşmayacağım!
+
 İyi Günler!
 
 <p align="center">

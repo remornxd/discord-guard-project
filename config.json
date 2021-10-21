@@ -1,1 +1,50 @@
-Dostum,80 Star Olunca Gerekli İşlem Uygulancaktır.
+{
+"guardToken":"GUARD_TOKEN",
+"backupToken":"BACKUP_TOKEN",
+"guildID":"SUNUCU_İD",
+"prefix":".",
+"mongoURL":"MONGO_URL",
+
+"status": [
+    "remornn işte ❤️",
+    "remornn ile",
+    "server ❤️ remornn"
+],
+
+"backupsystem":[
+    "BACKUP_TOKEN",
+    "BACKUP_TOKEN",
+    "BACKUP_TOKEN"
+],
+
+"ownerID":[
+    "OWNER_İD",
+    "OWNER_İD"
+],
+
+"whitelist":[
+    "GÜVENLİ_İD",
+    "GÜVENLİ_İD",
+    "GÜVENLİ_İD"
+],
+
+"STAFPERMS": [
+    "ADMINISTRATOR",
+    "MANAGE_ROLES",
+    "MANAGE_WEBHOOKS",
+    "MANAGE_EMOJIS",
+    "MANAGE_CHANNELS",
+    "MANAGE_GUILD",
+    "BAN_MEMBERS",
+    "KICK_MEMBERS",
+    "MENTION_EVERYONE"
+],
+
+    "stunt": {
+    "fromNumb":"whatsapp:+",
+    "phoneNumb":"whatsapp:+",
+    "twilioSid":"r",
+    "twilioToken":"r"
+}
+
+}

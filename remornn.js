@@ -1,1 +1,1 @@
-Dostum,80 Star Olunca Gerekli İşlem Uygulancaktır.
+Dostum,90 Star Olunca Gerekli İşlem Uygulancaktır.

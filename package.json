@@ -13,5 +13,6 @@
         "discord.js": "^12.5.1",
         "mongoose": "^5.11.18",
         "moment": "^2.29.1",
+        "pretty-ms": "^7.0.1"
     }
   }

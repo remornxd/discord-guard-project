@@ -28,6 +28,11 @@
     "GÜVENLİ_İD"
 ],
 
+"Audit": [
+    "WebHookID": "X",
+    "WebHookToken": "X"
+],
+    
 "STAFPERMS": [
     "ADMINISTRATOR",
     "MANAGE_ROLES",

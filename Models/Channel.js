@@ -5,5 +5,5 @@ const ChannelSchema = new Schema({
     channels: Array
 });
 
-const ChannelModel = model("channel_backup", ChannelSchema);
+const ChannelModel = model("servername_channel_backup", ChannelSchema);
 module.exports = ChannelModel;

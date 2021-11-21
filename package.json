@@ -1,13 +1,13 @@
 {
-    "name": "remornn-guard-backup-bot",
+    "name": "remornn-guard-project",
     "version": "1.0.0",
     "description": "",
-    "main": "remornn.js",
+    "main": "index.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
-    "author": "",
+    "author": "remornn",
     "license": "ISC",
     "dependencies": {
         "discord.js": "^12.5.1",

@@ -1,4 +1,4 @@
-# İnformation
+# ⭐ İnformation
 
 Hey! Merhaba 100 Start + 50 Fork Olduğu Zaman Proje Tamamı Doldurulacaktır.Main (server.js) Dosyası Harici Bütün Dosyalar Dolduruldu!
 
